@@ -7,7 +7,7 @@ $ echo "Data Science Intern at Xporcento 💻"
 
 $ echo "Languages:"
   "SQL, Python, C++"
-$ echo "Frameworks and Library"
+$ echo "Frameworks and Libraries:"
   "Spark, Airflow, Hadoop, Snowflake, Pandas, Numpy, Scipy, Scikit-learn, Matplotlib, Streamlit"
 
  "——————————————————————————————————————————————————————————————————————————————————————————————"
