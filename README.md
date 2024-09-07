@@ -6,14 +6,14 @@ $ echo "Data Science Intern at Xporcento 💻"
  "——————————————————————————————————————————————————————————————————————————————————————————————"
 
 $ echo "Languages:"
-  "SQL, Python, C++"
+  "SQL, Python"
 $ echo "Frameworks and Libraries:"
-  "Snowflake, Pandas, Numpy, Scikit-learn, Matplotlib, Streamlit"
+  "Pandas, Numpy, Matplotlib, Streamlit, Tkinter, Scipy"
 
  "——————————————————————————————————————————————————————————————————————————————————————————————"
 ```
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviomunck/)](https://www.linkedin.com/in/flaviomunck/)
 [![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:asmunck@protonmail.com)](mailto:asmunck@protonmail.com)
 
-<!-- C++ — Spark, Airflow, Hadoop, Snowflake, Pandas, Numpy, Scipy, Scikit-learn, Matplotlib, Streamlit -->
+<!-- To learn: C++ — Spark, Airflow, Hadoop, Snowflake, Pandas, Numpy, Scipy, Scikit-learn, Matplotlib, Streamlit -->
 
