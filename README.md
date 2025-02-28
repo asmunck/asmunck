@@ -1,19 +1,35 @@
-```sh
 ## Hi there 👋
 
-$ echo "󠁣󠁬󠁡󠁩BSc in Statistics at Federal University of Rio de Janeiro 🏴󠁣󠁬󠁡󠁩󠁿"
-$ echo "Data Scientist Jr at Sellbie 💻"
- "——————————————————————————————————————————————————————————————————————————————————————————————"
+```sh
+$ whoami
+flaviomunck@github:~$ AI Engineer Junior
 
-$ echo "Languages:"
-  "SQL, Python"
-$ echo "Frameworks and Libraries:"
-  "Pandas, Numpy, Matplotlib, Streamlit, Tkinter, Scipy"
+$ cat education.txt
+flaviomunck@github:~$ BSc in Statistics at Federal University of Rio de Janeiro
 
- "——————————————————————————————————————————————————————————————————————————————————————————————"
+$ cat experience.txt
+flaviomunck@github:~$ AI Engineer Junior at Sellbie
+flaviomunck@github:~$ Previously: Data Engineering Intern at X Porcento
+
+$ ls -la skills/
+flaviomunck@github:~$ 
+# Languages
+Python    SQL
+
+# Libraries & Frameworks
+Pandas    NumPy     SciPy     Matplotlib
+Streamlit Tkinter   Scikit-learn  Catboost
+PySpark
+
+# Tools & Platforms
+Docker    Git       GitHub-Actions
+Metabase  Postman   AWS
+Modal     Supabase  Databricks
+
+$ cat current_focus.txt  
+flaviomunck@github:~$ NLP projects | Generative AI | Data Pipelines
+
+$ echo "Contact me:"
 ```
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flaviomunck/)](https://www.linkedin.com/in/flaviomunck/)
-[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:asmunck@protonmail.com)](mailto:asmunck@protonmail.com)
 
-<!-- To learn: C++ — Spark, Airflow, Hadoop, Snowflake, Pandas, Numpy, Scipy, Scikit-learn, Matplotlib, Streamlit -->
-
+<!-- Learning Roadmap: MLOps, LLMs, Deep Learning Frameworks, Cloud Infrastructure -->
