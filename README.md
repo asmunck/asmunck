@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ```sh
 $ whoami
@@ -29,7 +28,6 @@ Modal     Supabase  Databricks
 $ cat current_focus.txt  
 flaviomunck@github:~$ NLP projects | Generative AI | Data Pipelines
 
-$ echo "Contact me:"
 ```
 
 <!-- Learning Roadmap: MLOps, LLMs, Deep Learning Frameworks, Cloud Infrastructure -->
