@@ -16,7 +16,7 @@ Python    SQL
 
 # Libraries & Frameworks
 Pandas    NumPy     SciPy     Matplotlib
-Streamlit Tkinter   Scikit-learn  Catboost
+Streamlit Tkinter   Catboost  Scikit-learn
 
 # Tools & Platforms
 Docker    Git       GitHub-Actions
