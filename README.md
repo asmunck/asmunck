@@ -1,14 +1,13 @@
 
 ```sh
 $ whoami
-flaviomunck@github:~$ ML Engineer Junior
+flaviomunck@github:~$ Junior Machine Learning Engineer
 
 $ cat education.txt
 flaviomunck@github:~$ BSc in Statistics at Federal University of Rio de Janeiro
 
 $ cat experience.txt
-flaviomunck@github:~$ ML Engineer Junior at Sellbie
-flaviomunck@github:~$ Previously: Data Engineering Intern at X Porcento
+flaviomunck@github:~$ Junior Machine Learning Engineer at Sellbie
 
 $ ls -la skills/
 flaviomunck@github:~$ 
