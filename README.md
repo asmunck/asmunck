@@ -6,9 +6,6 @@ flaviomunck@github:~$ Junior Machine Learning Engineer
 $ cat education.txt
 flaviomunck@github:~$ BSc in Statistics at Federal University of Rio de Janeiro
 
-$ cat experience.txt
-flaviomunck@github:~$ Junior Machine Learning Engineer at Sellbie
-
 $ ls -la skills/
 flaviomunck@github:~$ 
 # Languages
@@ -16,7 +13,7 @@ Python    SQL
 
 # Libraries & Frameworks
 Pandas    NumPy     SciPy     Matplotlib
-Streamlit Tkinter   Catboost  Scikit-learn
+Streamlit Seaborn   Catboost  Scikit-learn
 
 # Tools & Platforms
 Docker    Git       GitHub-Actions
